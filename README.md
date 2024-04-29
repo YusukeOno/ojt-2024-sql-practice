@@ -1,0 +1,1 @@
+# ojt-2024-sql-practice
