@@ -26,5 +26,7 @@
 * ※出典：政府統計の総合窓口[(e-Stat)(https://www.e-stat.go.jp/)](https://www.e-stat.go.jp/)「令和２年国勢調査 人口等基本集計」を加工して作成
 * [簡単にSQLを試せるツール「DB Fiddle」がスゴイ
 @Zenn](https://zenn.dev/sql_geinin/articles/7454c2350259b9)
+* [Convert HTML Table to Insert SQL
+](https://tableconvert.com/html-to-sql)
 
 以上
