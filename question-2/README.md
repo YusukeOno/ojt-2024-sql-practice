@@ -43,6 +43,7 @@
 
 ### テーブル定義
 
+<!--
 ```mermaid
 erDiagram
 "AGE_GRP(年齢階層)" {
@@ -70,6 +71,9 @@ erDiagram
     PF_NAME VARCHAR "都道府県名"
 }
 ```
+-->
+
+![ER図](./mermaid-er-diagram.svg)
 
 ### サンプルデータ
 
