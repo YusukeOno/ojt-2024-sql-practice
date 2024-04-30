@@ -46,6 +46,7 @@
 
 ### テーブル定義
 
+<!--
 ```mermaid
 erDiagram
 "PREFECTURE(都道府県)" {
@@ -68,6 +69,10 @@ erDiagram
     NATION_NAME VARCHAR "国籍名"
 }
 ```
+-->
+
+![ER図](./mermaid-er-diagram.svg)
+
 
 ### サンプルデータ
 

@@ -41,6 +41,7 @@
 
 ### テーブル定義
 
+<!--
 ```mermaid
 erDiagram
 "PORT(港)" {
@@ -64,6 +65,9 @@ erDiagram
     GROUP_NAME VARCHAR "グループ名"
 }
 ```
+-->
+
+![ER図](./mermaid-er-diagram.svg)
 
 ### サンプルデータ
 

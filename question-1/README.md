@@ -40,6 +40,7 @@
 
 ### テーブル定義
 
+<!--
 ```mermaid
 erDiagram
 "POPULATION(人口)" {
@@ -50,6 +51,9 @@ erDiagram
     FEMALE_AMT INTEGER "女性数"
 }
 ```
+-->
+
+![ER図](./mermaid-er-diagram.svg)
 
 ### サンプルデータ
 
